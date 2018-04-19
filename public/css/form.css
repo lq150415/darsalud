@@ -1,0 +1,16 @@
+.divjumbo{
+	border:2px; 
+	width:60%; 
+	margin-top:10%; 
+	margin-left:20%; 
+	padding:0px 12px 12px 12px; 
+	overflow: auto;
+}
+.divjumbo2{
+	border:2px; 
+	width:80%; 
+	margin-top:10%; 
+	margin-left:10%; 
+	padding:0px 12px 12px 12px; 
+	overflow: auto;
+}
